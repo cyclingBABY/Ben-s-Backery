@@ -1,0 +1,27 @@
+/*welcome page for admin and user*/
+.stuart {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Optional: background color */
+}
+
+.container_stuart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #fff; 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 6); 
+}
+
+.content_welcome {
+    max-width: 400px;
+}
